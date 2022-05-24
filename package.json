@@ -1,0 +1,23 @@
+{
+  "name": "my-porfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f4tc4t/Portfolio-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f4tc4t/Portfolio-v1/issues"
+  },
+  "homepage": "https://github.com/f4tc4t/Portfolio-v1#readme",
+  "dependencies": {
+    "bootstrap": "5.0"
+  }
+}
